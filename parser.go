@@ -7,7 +7,7 @@
 package gopacket
 
 import (
-	"fmt"
+	 "fmt"
 )
 
 // DecodingLayer is an interface for packet layers that can decode themselves.
